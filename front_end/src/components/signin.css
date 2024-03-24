@@ -1,0 +1,25 @@
+.Signin{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.u2VOKL0BufJGdwMmJqA42gHaEK%26pid%3DApi&f=1&ipt=8f7462d6d24d2e7ea6a6ee625637a63250d2eff7594d8f0796c07a433d5254c8&ipo=images");
+background-size: cover;
+flex: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.loginForm{
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid rgb(129,121,121);
+    border-radius: 1px;
+    background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
+    backdrop-filter: blur(10px);
+}
+.loginForm2{
+    background-color: #fff;
+    padding: 25px;
+    margin-top: 3px;
+    background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
+    backdrop-filter: blur(10px);
+
+}

@@ -1,0 +1,88 @@
+.signUp{
+
+background-size: cover;
+flex: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 500px;
+
+}
+.form-container{
+   border-style: none;
+    padding: 1px;
+    border-radius: 5px;
+  /*  border: 1px solid rgb(113, 105, 105);*/
+  
+   
+}
+.form{
+    background-color: #faf6f6;
+    width: 300px;
+    border-radius: 5px;
+    border-style: none;
+    padding: 1px;
+   border: 1px solid rgb(129,121,121);
+    border-radius: 1px;
+    background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
+    backdrop-filter: blur(10px);
+}
+
+.signUpLogo{
+    width: 200px;
+    
+    object-fit: contain;
+    padding: 10px 0px;
+}
+.LoginPara{
+    color: rgba(var(--f52,142,142,142),1);
+    font-size: 17px;
+font-weight: 600;
+line-height: 20px;
+margin: 0px 40px 20px 40px;
+
+}
+input{
+    padding:5px;
+    margin: 3px 0px;
+    outline: none;
+    font-size: 16px;
+    width: 90%;
+    box-sizing: border-box;
+    border-radius: 5px;
+   
+}
+
+.form {
+    margin: auto;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+    
+} 
+#submit-btn{
+background-color: #1773ea;
+border-radius: 5px;
+border: none;
+border-radius:3px ;
+color: #fff;
+font-weight: bold;
+padding: 5px 10px;
+width: 80%;
+cursor: pointer;
+margin-top: 8px;
+}
+.form2{
+
+    background-color: #fff;
+    padding: 30px;
+    width: 300px;
+    display:flex;
+    margin-left: 24%;
+    border-radius: 5px;
+   margin-top: 5px;
+   border: 1px solid rgb(129,121,121);
+   background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
+    backdrop-filter: blur(10px);
+
+}
